@@ -1,53 +1,180 @@
-<h1 align="center"> Hi, I'm Henrique Oliveira! <img src="https://em-content.zobj.net/source/microsoft-teams/363/black-bird_1f426-200d-2b1b.png" width="40px"/><h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Henrique-arievilO&color=yellow" alt="Profile views" /> </p>
-<h2> 👥 &nbsp;Social Links </h2>
-<div align="center">
+<!-- ========================================================= -->
+<!--                  BOOT SEQUENCE                            -->
+<!-- ========================================================= -->
+```text
+[BOOT] Initializing profile...
+[ OK ] Loading discipline module...
+[ OK ] Mounting repositories...
+[ OK ] Verifying commit history...
+[ OK ] Establishing terminal session...
+[ OK ] Ready.
+```
 
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonho-74b718235/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_arievilo26/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-arievilO)
-</div>
+<p align="center">
 
-<h2> 💻 &nbsp;Tech Stack: </h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Execute+in+silence.;Let+the+code+speak.;Build.+Refine.+Repeat." alt="Typing SVG" />
 
-<h3> 📋 Languages </h3>
-<div align="center">
+</p>
 
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+# `// README.md` <img src="https://em-content.zobj.net/source/microsoft-teams/363/black-bird_1f426-200d-2b1b.png" width="32px"/>
 
-<h3> 💻 IDEs/Editors </h3>
-<div align="center">
-    
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
-<br>
-<h3> 📚 Frameworks, Platforms and Libraries </h3>
-<br>
-<div align="center">
-    
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)    
-</div>
-<br>
+> **Silence is temporary. Well-written code is not.**
 
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-arievilO&theme=midnight_purple)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Henrique-arievilO&color=7C3AED" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/banner-corporate-goth.png"
+    alt="Corporate Goth Banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
 
 
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-arievilO&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henrique-arievilO&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-arievilO&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-arievilO&theme=midnight_purple&utcOffset=-3)
-</div>
-<h4>Passionate about technologies. Every day I learn a little more and discover the world of programming.</h4>
+<p align="center">
+  <img
+    src="./assets/seal.png"
+    width="100"
+    alt="Corporate Goth Seal"
+  />
+</p>
+
+# `$ whoami`
+
+```bash
+USER.............. Henrique Oliveira
+ROLE.............. Front-end Developer
+LOCATION.......... Uberlândia, MG - Brazil
+FOCUS............. JavaScript • UI • UX
+STACK............. HTML • CSS • JavaScript
+LEARNING.......... Performance • Accessibility • Architecture
+CURRENT_STATUS.... Building systems with intention.
+PHILOSOPHY........ Complexity is optional. Precision is not.
+```
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `system`
+
+```bash
+OS................ Windows 11
+EDITOR............ Visual Studio Code
+SHELL............. PowerShell
+VERSION_CONTROL... Git
+HOST.............. GitHub
+THEME............. Corporate Goth
+FONT.............. Monospace (GitHub renderer)
+```
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `tech_stack`
+
+
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `github_stats`
+
+> Live data provided by GitHub Readme Stats.
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-zeta-liard-39.vercel.app/api?username=Henrique-arievilO&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats-zeta-liard-39.vercel.app/api/top-langs/?username=Henrique-arievilO&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Henrique-arievilO&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `featured_projects`
+
+| Project | Description | Main |
+|---------|-------------|------|
+| **Animais Fantásticos** | Study project focused on modern JavaScript and DOM manipulation. | JavaScript |
+| **Flip Calendar** | Responsive flip calendar built with Vanilla JavaScript. | JavaScript |
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `currently`
+
+- Studying modern JavaScript.
+- Building a front-end portfolio.
+- Improving UI and UX.
+- Learning software architecture.
+- Writing cleaner code.
+- Documenting every project.
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+<details>
+
+<summary><strong>terminal.log</strong></summary>
+
+```text
+> Precision over noise.
+> Simplicity scales.
+> Good architecture survives trends.
+> Every commit should justify its existence.
+```
+
+</details>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider">
+</p>
+
+# `contact`
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=7C3AED)](https://github.com/Henrique-arievilO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://linkedin.com/in/wandersonho-74b718235)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:wandholiveira1@gmail.com)
+
+![Location](https://img.shields.io/badge/Uberlândia--MG-Brazil-111111?style=for-the-badge&logo=googlemaps&logoColor=7C3AED)
+
+---
+
+```text
+[ OK ] Session closed.
+[ OK ] Repository synchronized.
+[ OK ] Awaiting next commit...
+
+EOF
+```
