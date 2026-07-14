@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: Henrique-arievilO
           outputs: |
-            dist/github-snake.svg?color_snake=%237C3AED&color_dots=%23111111,%232a1a3d,%23553399,%237C3AED,%23a685e2
+            dist/github-snake.svg?color_snake=%237C3AED&color_dots=%23f9f7fc30,%232a1a3d,%23553399,%237C3AED,%23a685e2
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
