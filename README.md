@@ -178,3 +178,6 @@ FONT.............. Monospace (GitHub renderer)
 
 EOF
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henrique-arievilO/Henrique-arievilO/output/dist/github-snake.svg" alt="Snake animation" width="100%">
+</p>
